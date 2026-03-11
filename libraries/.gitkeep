@@ -1,0 +1,7 @@
+# Place Android platform-tools here (optional):
+# - Windows: adb.exe
+# - macOS: adb-darwin (rename from adb)
+# - Linux: adb
+#
+# Download from: https://developer.android.com/studio/releases/platform-tools
+# If platform-tools is in your PATH, this folder can be empty.
